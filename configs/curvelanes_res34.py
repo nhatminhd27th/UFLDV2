@@ -1,7 +1,7 @@
 dataset = 'CurveLanes'
 data_root= 'content/Curvelanes' # Need to be modified before running
-epoch = 50
-batch_size = 4
+epoch = 5
+batch_size = 10
 optimizer = 'SGD'
 learning_rate = 0.025
 weight_decay = 0.0001
